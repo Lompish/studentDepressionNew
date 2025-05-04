@@ -100,7 +100,7 @@ addMdToPage(`
   <br>
 
 Sömn är en annan kritisk faktor. Analysen visar att kort sömn (under 4 timmar per natt) är starkt kopplat till förhöjd depression, med en genomsnittlig nivå på över 64 %. Intressant nog visar resultaten att studenter som sover mer än 8 timmar har de lägsta nivåerna av depression, vilket tyder på att tillräcklig vila kan ha en skyddande effekt på det psykiska välbefinnandet.  
-*En omfattande metaanalys av över 50 studier visar att kort sömn (≤6 timmar) är associerad med en ökad risk för depression, medan längre sömn (≥9 timmar) inte visade någon signifikant koppling till depression*.  
+*En omfattande metaanalys av över 50 studier visar att kort sömn (<6 timmar) är associerad med en ökad risk för depression, medan längre sömn (>9 timmar) inte visade någon signifikant koppling till depression*.  
 [Association of sleep duration and risk of mental disorder](https://link.springer.com/article/10.1007/s11325-023-02905-1).
 
   <br>
